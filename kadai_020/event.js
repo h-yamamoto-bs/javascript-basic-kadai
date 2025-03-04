@@ -8,4 +8,4 @@ const btn = document.getElementById('btn');
 btn.addEventListener('click', () => {
     // textの内容を変更
     text.textContent = 'ボタンをクリックしました'
-})
+});
